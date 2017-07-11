@@ -1,0 +1,8 @@
+/Users/ed_lorie/workspace/csharp/exercises/tuples/bin/Debug/netcoreapp1.1/tuples.deps.json
+/Users/ed_lorie/workspace/csharp/exercises/tuples/bin/Debug/netcoreapp1.1/tuples.runtimeconfig.json
+/Users/ed_lorie/workspace/csharp/exercises/tuples/bin/Debug/netcoreapp1.1/tuples.runtimeconfig.dev.json
+/Users/ed_lorie/workspace/csharp/exercises/tuples/bin/Debug/netcoreapp1.1/tuples.dll
+/Users/ed_lorie/workspace/csharp/exercises/tuples/bin/Debug/netcoreapp1.1/tuples.pdb
+/Users/ed_lorie/workspace/csharp/exercises/tuples/obj/Debug/netcoreapp1.1/tuples.AssemblyInfo.cs
+/Users/ed_lorie/workspace/csharp/exercises/tuples/obj/Debug/netcoreapp1.1/tuples.dll
+/Users/ed_lorie/workspace/csharp/exercises/tuples/obj/Debug/netcoreapp1.1/tuples.pdb
